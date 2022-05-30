@@ -10,4 +10,4 @@
     echo "Album excluido com sucesso";
 
 ?>
-<p> <a href="form_cadastrar_livro.html">Voltar</a>
+<p> <a href="index.html">Voltar</a>
