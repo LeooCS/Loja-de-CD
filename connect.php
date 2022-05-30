@@ -5,5 +5,5 @@
     {
         echo "falha ao conectar: ".mysqli_connect_error(); die();
     }
-    mysqli_select_db($conexao,"livraria");
+    mysqli_select_db($conexao,"loja_cd");
 ?>
